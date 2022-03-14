@@ -1,4 +1,14 @@
-h1 {
+h1,
+h4 {
   color: red;
   text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.disappear {
+  visibility: hidden;
 }
