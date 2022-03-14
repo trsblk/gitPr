@@ -1,6 +1,6 @@
 h1,
 h4 {
-  color: red;
+  color: blue;
   text-align: center;
 }
 
@@ -16,5 +16,5 @@ ul {
 
 li {
   list-style-type: none;
-  color: green;
+  color: yellow;
 }
