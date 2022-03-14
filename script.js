@@ -9,4 +9,3 @@ h1.addEventListener("click", function () {
 
 // Make p tag disappear
 const p = document.querySelector("p");
-console.log("new changes");
