@@ -4,11 +4,17 @@ h4 {
   text-align: center;
 }
 
-p {
+p,
+ul {
   text-align: center;
   font-size: 2rem;
 }
 
 .disappear {
   visibility: hidden;
+}
+
+li {
+  list-style-type: none;
+  color: green;
 }
