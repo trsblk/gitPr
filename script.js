@@ -9,3 +9,5 @@ console.log(h1);
 
 // Make p tag disappear
 const p = document.querySelector("p");
+
+// Do something with js
